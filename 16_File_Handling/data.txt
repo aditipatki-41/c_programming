@@ -1,0 +1,2 @@
+Hello from fputs!
+File handling is getting easy.
